@@ -1,4 +1,4 @@
-# React-Learn
+# React-WeChat
 
 使用react-native实现的模仿微信UI的Demo
 
